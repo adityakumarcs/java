@@ -1,0 +1,7 @@
+public class concat {
+    public static void main(String[] args) {
+        String a="gla university ";
+        String b=" mathura uttarpradesh";
+        System.out.println(a.concat(b));
+    }
+}
